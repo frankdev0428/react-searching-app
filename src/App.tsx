@@ -1,14 +1,15 @@
-import Form from "./components/Form"
+import Cartform from "./components/Cartform"
+
 
 
 
 function App() {
 
   return(
-  <>
-  <h1>Account Sign Up Form</h1>
-  <Form />
-  </>
+  <div className="app">
+  <h1>Shopping cart </h1>
+  <Cartform />
+  </div>
   )
 }
 

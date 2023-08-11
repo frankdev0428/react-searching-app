@@ -1,0 +1,12 @@
+.form-container {
+  width: 600px;
+  padding  : 5rem 3rem;
+  background-color: #e6f7ff;
+  display: flex;
+  flex-direction: column;
+}
+.signup-but {
+    font-size : 20px;
+    padding : 0.5rem 5rem;
+    width: 30%;
+}

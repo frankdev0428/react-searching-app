@@ -6,6 +6,7 @@ function App() {
 
   return(
   <>
+  <h1>Account Sign Up Form</h1>
   <Form />
   </>
   )

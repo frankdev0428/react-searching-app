@@ -8,6 +8,8 @@
 }
 .signup-but {
     font-size : 20px;
-    padding : 0.5rem 5rem;
     width: 30%;
+}
+.error-messages {
+  margin-top: 1rem;
 }

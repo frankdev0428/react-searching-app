@@ -4,6 +4,7 @@
   background-color: #e6f7ff;
   display: flex;
   flex-direction: column;
+  margin-top : 2rem;
 }
 .signup-but {
     font-size : 20px;

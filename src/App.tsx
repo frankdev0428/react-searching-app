@@ -19,7 +19,7 @@ function App() {
   <div className="app">
   <h1>Shopping cart </h1>
   <div className="mb-5">
-  <Cartform onSubmit={data => console.log(data)}/>
+  <Cartform onSubmit={expense => setExpenses([...expenses, {...expense, id : expenses.length + 1}])}/>
   </div>
   <div className="mb-3">
   <ExpenseFilter onSelectCategory = { (category) => setSelectedCategory(category)}/>

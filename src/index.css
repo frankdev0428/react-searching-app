@@ -10,7 +10,7 @@ body {
     background-repeat: no-repeat;
     object-fit: cover;
     background-size: cover;
-    background-image: url('https://images.pexels.com/photos/3728311/pexels-photo-3728311.jpeg?auto=compress&cs=tinysrgb&w=1600');
+    /* background-image: url('https://images.pexels.com/photos/3728311/pexels-photo-3728311.jpeg?auto=compress&cs=tinysrgb&w=1600'); */
 }
 .app{
     width: 100vw;
